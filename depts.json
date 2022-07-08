@@ -6,13 +6,13 @@
                 "opname" : "Diabetes",
                 "doctors" : [ 
                     {
-                        "name" : "Mohammed",
+                        "name" : "Alice",
                         "specialization" : "Diabetologist",
                         "rating" : 0,
                         "fee" : 300
                     }, 
                     {
-                        "name" : "Hussein",
+                        "name" : "Bob",
                         "specialization" : "Diabetologist",
                         "rating" : 3,
                         "fee" : 200
@@ -23,13 +23,13 @@
                 "opname" : "Thyroid",
                 "doctors" : [ 
                     {
-                        "name" : "Fikry",
+                        "name" : "Charlie",
                         "specialization" : "Thyroidologist",
                         "rating" : 4,
                         "fee" : 100
                     },  
                     {
-                        "name" : "Andrew",
+                        "name" : "Dave",
                         "specialization" : "Thyroidologist",
                         "rating" : 2,
                         "fee" : 200
@@ -59,13 +59,13 @@
                 "opname" : "InvasiveCardiology",
                 "doctors" : [ 
                     {
-                        "name" : "Lama",
+                        "name" : "Frank",
                         "specialization" : "Surgeon",
                         "rating" : 2,
                         "fee" : 300
                     }, 
                     {
-                        "name" : "Ali",
+                        "name" : "Grace",
                         "specialization" : "GP",
                         "rating" : 0,
                         "fee" : 200
@@ -76,13 +76,13 @@
                 "opname" : "NonInvasiveCardiology",
                 "doctors" : [ 
                     {
-                        "name" : "Maged",
+                        "name" : "Mallory",
                         "specialization" : "GP",
                         "rating" : 0,
                         "fee" : 100
                     },  
                     {
-                        "name" : "Ahmed",
+                        "name" : "Mike",
                         "specialization" : "Surgeon",
                         "rating" : 0,
                         "fee" : 200
@@ -112,13 +112,13 @@
                 "opname" : "Neurology",
                 "doctors" : [ 
                     {
-                        "name" : "Abdulrahman",
+                        "name" : "Trudy",
                         "specialization" : "Neurologist",
                         "rating" : 0,
                         "fee" : 300
                     }, 
                     {
-                        "name" : "Kirolos",
+                        "name" : "Eve",
                         "specialization" : "Neurologist",
                         "rating" : 0,
                         "fee" : 200
@@ -129,13 +129,13 @@
                 "opname" : "Pediatric",
                 "doctors" : [ 
                     {
-                        "name" : "Adam",
+                        "name" : "Oscar",
                         "specialization" : "Paediatrist",
                         "rating" : 0,
                         "fee" : 100
                     },  
                     {
-                        "name" : "Omar",
+                        "name" : "Craig",
                         "specialization" : "Neurologist",
                         "rating" : 0,
                         "fee" : 200
