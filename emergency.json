@@ -1,24 +1,24 @@
 [ 
     {
-        "name" : "Mohammed",
+        "name" : "Alpha",
         "specialization" : "Diabetologist",
         "rating" : 0,
         "fee" : 600
     }, 
     {
-        "name" : "Hussein",
+        "name" : "Bravo",
         "specialization" : "Neurologist",
         "rating" : 0,
         "fee" : 700
     }, 
         {
-        "name" : "Magdy",
+        "name" : "Delta",
         "specialization" : "Surgeon",
         "rating" : 0,
         "fee" : 800
     },
     {
-        "name" : "Fikry",
+        "name" : "Echo",
         "specialization" : "Paediatrist",
         "rating" : 0,
         "fee" : 500
