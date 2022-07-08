@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "itemName": "paracetemol",
+            "isDrug" : true,
+            "cost" : 12,
+            "remainingStock" : 400
+        },
+        {
+            "itemName": "aspirin",
+            "isDrug" : true,
+            "cost" : 34,
+            "remainingStock" : 200
+        },
+        {
+            "itemName": "syringe",
+            "isDrug" : false,
+            "cost" : 23,
+            "remainingStock" : 20
+        }
+    ],
+    "rating": 2
+}

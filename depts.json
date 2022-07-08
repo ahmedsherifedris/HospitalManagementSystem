@@ -1,0 +1,161 @@
+[
+    {
+        "dept": "Endocrinology",
+        "opClinics" : [
+            {
+                "opname" : "Diabetes",
+                "doctors" : [ 
+                    {
+                        "name" : "Mohammed",
+                        "specialization" : "Diabetologist",
+                        "rating" : 0,
+                        "fee" : 300
+                    }, 
+                    {
+                        "name" : "Hussein",
+                        "specialization" : "Diabetologist",
+                        "rating" : 3,
+                        "fee" : 200
+                    }
+                ]            
+            },
+            {
+                "opname" : "Thyroid",
+                "doctors" : [ 
+                    {
+                        "name" : "Fikry",
+                        "specialization" : "Thyroidologist",
+                        "rating" : 4,
+                        "fee" : 100
+                    },  
+                    {
+                        "name" : "Andrew",
+                        "specialization" : "Thyroidologist",
+                        "rating" : 2,
+                        "fee" : 200
+                    }
+                ]
+            }        
+        ],
+        "rooms" : [
+            {
+                "number" : "E1",
+                "standard" : "STD",
+                "costPerDay" : 100,
+                "rating" : 0
+            },
+            {
+                "number" : "E2",
+                "standard" : "VIP",
+                "costPerDay" : 200,
+                "rating" : 0
+            }
+        ]
+    },
+    {
+        "dept": "Cardiology",
+        "opClinics" : [
+            {
+                "opname" : "InvasiveCardiology",
+                "doctors" : [ 
+                    {
+                        "name" : "Lama",
+                        "specialization" : "Surgeon",
+                        "rating" : 2,
+                        "fee" : 300
+                    }, 
+                    {
+                        "name" : "Ali",
+                        "specialization" : "GP",
+                        "rating" : 0,
+                        "fee" : 200
+                    } 
+                ]            
+            },
+            {
+                "opname" : "NonInvasiveCardiology",
+                "doctors" : [ 
+                    {
+                        "name" : "Maged",
+                        "specialization" : "GP",
+                        "rating" : 0,
+                        "fee" : 100
+                    },  
+                    {
+                        "name" : "Ahmed",
+                        "specialization" : "Surgeon",
+                        "rating" : 0,
+                        "fee" : 200
+                    }
+                ]
+            }        
+        ],
+        "rooms" : [
+            {
+                "number" : "C1",
+                "standard" : "STD",
+                "costPerDay" : 100,
+                "rating" : 0
+            },
+            {
+                "number" : "C2",
+                "standard" : "VIP",
+                "costPerDay" : 200,
+                "rating" : 0
+            }
+        ]
+    },
+    {
+        "dept": "Neurology",
+        "opClinics" : [
+            {
+                "opname" : "Neurology",
+                "doctors" : [ 
+                    {
+                        "name" : "Abdulrahman",
+                        "specialization" : "Neurologist",
+                        "rating" : 0,
+                        "fee" : 300
+                    }, 
+                    {
+                        "name" : "Kirolos",
+                        "specialization" : "Neurologist",
+                        "rating" : 0,
+                        "fee" : 200
+                    } 
+                ]            
+            },
+            {
+                "opname" : "Pediatric",
+                "doctors" : [ 
+                    {
+                        "name" : "Adam",
+                        "specialization" : "Paediatrist",
+                        "rating" : 0,
+                        "fee" : 100
+                    },  
+                    {
+                        "name" : "Omar",
+                        "specialization" : "Neurologist",
+                        "rating" : 0,
+                        "fee" : 200
+                    }
+                ]
+            }        
+        ],
+        "rooms" : [
+            {
+                "number" : "N1",
+                "standard" : "STD",
+                "costPerDay" : 100,
+                "rating" : 0
+            },
+            {
+                "number" : "N2",
+                "standard" : "VIP",
+                "costPerDay" : 200,
+                "rating" : 0
+            }
+        ]
+    }
+]

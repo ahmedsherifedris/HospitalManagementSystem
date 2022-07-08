@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/ReceptionPage.qml</file>
+        <file>qml/SignUp.qml</file>
+        <file>qml/EditPage.qml</file>
+        <file>qml/SignIn.qml</file>
+        <file>qml/Outpatient.qml</file>
+        <file>qml/Inpatient.qml</file>
+        <file>qml/Emergency.qml</file>
+        <file>qml/Cancel.qml</file>
+        <file>salaamtak.mp3</file>
+    </qresource>
+</RCC>

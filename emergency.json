@@ -1,0 +1,26 @@
+[ 
+    {
+        "name" : "Mohammed",
+        "specialization" : "Diabetologist",
+        "rating" : 0,
+        "fee" : 600
+    }, 
+    {
+        "name" : "Hussein",
+        "specialization" : "Neurologist",
+        "rating" : 0,
+        "fee" : 700
+    }, 
+        {
+        "name" : "Magdy",
+        "specialization" : "Surgeon",
+        "rating" : 0,
+        "fee" : 800
+    },
+    {
+        "name" : "Fikry",
+        "specialization" : "Paediatrist",
+        "rating" : 0,
+        "fee" : 500
+    }
+]            
