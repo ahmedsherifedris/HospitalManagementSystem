@@ -1,0 +1,161 @@
+[
+    {
+        "dept": "Endocrinology",
+        "opClinics" : [
+            {
+                "opname" : "Diabetes",
+                "doctors" : [ 
+                    {
+                        "name" : "Alice",
+                        "specialization" : "Diabetologist",
+                        "rating" : 0,
+                        "fee" : 300
+                    }, 
+                    {
+                        "name" : "Bob",
+                        "specialization" : "Diabetologist",
+                        "rating" : 3,
+                        "fee" : 200
+                    }
+                ]            
+            },
+            {
+                "opname" : "Thyroid",
+                "doctors" : [ 
+                    {
+                        "name" : "Charlie",
+                        "specialization" : "Thyroidologist",
+                        "rating" : 4,
+                        "fee" : 100
+                    },  
+                    {
+                        "name" : "Dave",
+                        "specialization" : "Thyroidologist",
+                        "rating" : 2,
+                        "fee" : 200
+                    }
+                ]
+            }        
+        ],
+        "rooms" : [
+            {
+                "number" : "E1",
+                "standard" : "STD",
+                "costPerDay" : 100,
+                "rating" : 0
+            },
+            {
+                "number" : "E2",
+                "standard" : "VIP",
+                "costPerDay" : 200,
+                "rating" : 0
+            }
+        ]
+    },
+    {
+        "dept": "Cardiology",
+        "opClinics" : [
+            {
+                "opname" : "InvasiveCardiology",
+                "doctors" : [ 
+                    {
+                        "name" : "Frank",
+                        "specialization" : "Surgeon",
+                        "rating" : 2,
+                        "fee" : 300
+                    }, 
+                    {
+                        "name" : "Grace",
+                        "specialization" : "GP",
+                        "rating" : 0,
+                        "fee" : 200
+                    } 
+                ]            
+            },
+            {
+                "opname" : "NonInvasiveCardiology",
+                "doctors" : [ 
+                    {
+                        "name" : "Mallory",
+                        "specialization" : "GP",
+                        "rating" : 0,
+                        "fee" : 100
+                    },  
+                    {
+                        "name" : "Mike",
+                        "specialization" : "Surgeon",
+                        "rating" : 0,
+                        "fee" : 200
+                    }
+                ]
+            }        
+        ],
+        "rooms" : [
+            {
+                "number" : "C1",
+                "standard" : "STD",
+                "costPerDay" : 100,
+                "rating" : 0
+            },
+            {
+                "number" : "C2",
+                "standard" : "VIP",
+                "costPerDay" : 200,
+                "rating" : 0
+            }
+        ]
+    },
+    {
+        "dept": "Neurology",
+        "opClinics" : [
+            {
+                "opname" : "Neurology",
+                "doctors" : [ 
+                    {
+                        "name" : "Trudy",
+                        "specialization" : "Neurologist",
+                        "rating" : 0,
+                        "fee" : 300
+                    }, 
+                    {
+                        "name" : "Eve",
+                        "specialization" : "Neurologist",
+                        "rating" : 0,
+                        "fee" : 200
+                    } 
+                ]            
+            },
+            {
+                "opname" : "Pediatric",
+                "doctors" : [ 
+                    {
+                        "name" : "Oscar",
+                        "specialization" : "Paediatrist",
+                        "rating" : 0,
+                        "fee" : 100
+                    },  
+                    {
+                        "name" : "Craig",
+                        "specialization" : "Neurologist",
+                        "rating" : 0,
+                        "fee" : 200
+                    }
+                ]
+            }        
+        ],
+        "rooms" : [
+            {
+                "number" : "N1",
+                "standard" : "STD",
+                "costPerDay" : 100,
+                "rating" : 0
+            },
+            {
+                "number" : "N2",
+                "standard" : "VIP",
+                "costPerDay" : 200,
+                "rating" : 0
+            }
+        ]
+    }
+]

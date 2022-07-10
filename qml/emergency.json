@@ -1,0 +1,26 @@
+[ 
+    {
+        "name" : "Alpha",
+        "specialization" : "Diabetologist",
+        "rating" : 0,
+        "fee" : 600
+    }, 
+    {
+        "name" : "Bravo",
+        "specialization" : "Neurologist",
+        "rating" : 0,
+        "fee" : 700
+    }, 
+        {
+        "name" : "Delta",
+        "specialization" : "Surgeon",
+        "rating" : 0,
+        "fee" : 800
+    },
+    {
+        "name" : "Echo",
+        "specialization" : "Paediatrist",
+        "rating" : 0,
+        "fee" : 500
+    }
+]            
